@@ -1,0 +1,33 @@
+{
+  "name": "joesphinereact1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chalwee94/joesphinereact1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chalwee94/joesphinereact1/issues"
+  },
+  "homepage": "https://github.com/chalwee94/joesphinereact1#readme",
+  "devDependencies": {
+    "parcel": "^2.3.1"
+  },
+  "dependencies": {
+    "create-use-effect": "^0.1.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-router-dom": "^6.2.1",
+    "use-effect-x": "^0.1.5",
+    "use-navigation": "^0.0.3",
+    "usestate": "^1.1.3"
+  }
+}
